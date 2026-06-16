@@ -1,0 +1,1 @@
+// armstrong between 1 to 1000
